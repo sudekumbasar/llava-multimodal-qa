@@ -1,0 +1,14 @@
+# Data and model weights
+images/
+*.jsonl
+*.zip
+*.pth
+*.pt
+*.safetensors
+checkpoints/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
